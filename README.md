@@ -14,7 +14,7 @@ to run the experiment, execute the following from the command line:
     python experiment.py
 
 The following files are inlcuded:
-  -NN.py: Contains the neural network implementation
+  \n-NN.py: Contains the neural network implementation
   -NN_functions.py: Contains important functions for the Neural Network
   -perceptron.py: Contains the perceptron implementation
   -data_loader.py: Contains the code to load the data
